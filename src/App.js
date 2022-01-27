@@ -10,7 +10,25 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by: Nicole Stewart</small>
+          <small>
+            {" "}
+            This project is created by Nicole Stewart is {""}
+            <a
+              href="https://github.com/nicstewart0022/react-dictionary-project"
+              target="_blank"
+              rel="nonreferrer noopener"
+            >
+              open-sourced on GitHub
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://cocky-jepsen-76535c.netlify.app"
+              target="_blank"
+              rel="nonreferrer noopener"
+            >
+              hosted on Netlify
+            </a>
+          </small>
         </footer>
       </div>
     </div>
