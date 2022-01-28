@@ -1,9 +1,8 @@
 .App-header {
   margin: 30px 0;
   text-align: center;
-
-  font-weight: 400;
-  font-size: 45px;
+  font-weight: 700;
+  font-size: 50px;
   color: #006343;
 }
 .App-logo {
@@ -15,13 +14,14 @@
   text-align: center;
   margin: 30px 0;
 }
-ul {
-  list-style-type: none;
-  text-align: center;
-}
+
 .App {
   font-family: "Montserrat", sans-serif;
 }
-.App-Results-h2 {
-  font-size: 400;
+a {
+  color: #4b4ccc;
+  text-decoration: none;
+}
+a:hover {
+  color: #006343;
 }

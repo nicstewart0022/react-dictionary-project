@@ -1,0 +1,13 @@
+.Meaning h3 {
+  color: #006343;
+  line-height: 1.5;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.Meaning .definition {
+  font-weight: 300;
+}
+.Meaning .example {
+  font-weight: 300;
+  font-style: italic;
+}
