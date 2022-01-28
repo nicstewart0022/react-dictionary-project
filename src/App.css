@@ -17,6 +17,8 @@
 
 .App {
   font-family: "Montserrat", sans-serif;
+  max-width: 960px;
+  margin: 0 auto;
 }
 a {
   color: #4b4ccc;
